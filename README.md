@@ -22,7 +22,7 @@
 <a name="-The-Technologies-used"></a>
 ## 💻The Technologies used 
 
-<p>The follow tools were used in this project:</p>
+The follow tools were used in this project:
 * HTML5
 
 ---
